@@ -2,7 +2,7 @@ name: qr_from_file
 description: A flutter plugin exclusive for Android that scans qr code from files (only), whether it's from your flutter assets or your gallery.
 version: 0.0.1
 author: Andres Heredia <ahguerra93@gmail.com>
-homepage: 
+homepage: https://github.com/ahguerra93/qr_from_file
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
